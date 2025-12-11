@@ -2,29 +2,99 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 10%
+    right: 80%
+    width: 100px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 4%
+    right: 13%
+    width: 100px
+  &-3
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 61%
+    right: 12%
+    width: 100px
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(15px)
   100%
     transform: translateY(0px)
   
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important   
+.banner-principal__row .banner-principal__img
+  max-width: 480px !important  
 .banner-interno__titulo__icono i
   color: $color-primario
-figcaption
-  font-weight: normal
+figcaption, table caption
+  font-weight: normal 
+
+
+.fa-lista
+  li
+    display: flex !important
+    align-items: flex-start
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.bg-color-primario
+  background-color: $color-primario
+.bg-color-secundario
+  background-color: $color-secundario
+.bg-color-sistema-texto
+  background-color: $color-sistema-texto
+.text-color-sistema
+  color: $color-sistema-texto !important
+.bg-color-adicional-1
+  background-color: $color-adicional-1
+.ct-color-primario
+  color: $color-primario
+.w-fit
+  width: fit-content
+.columns-2
+  columns: 2
+.tc-sec 
+  color: $color-secundario !important
+.tc-ac 
+  color: $color-acento-contenido !important
+.font-italic
+  font-style: italic !important
+.sin-borde
+  border: 0px !important
  
+
+.bg-1
+  background-color: #CBBFDA
+.bg-2
+  background-color: #C5D7F4  
+.bg-3
+  background-color:  #3571C7
+.bg-tarj
+  background-image: url('../assets/curso/temas/t1/bg-tarj.png')
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+
+
+.br-1
+  border-top-left-radius: 30px
+  .bloque-texto-g__img
+    border-top-left-radius: 30px
+.tabla-a.color-acento-contenido.text-start 
+  td, tr, th
+    text-align: left !important
+.slyder-f__btn i
+  color: $color-acento-botones
