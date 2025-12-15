@@ -123,7 +123,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t1/2.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Es el procedimiento que permite que varias personas al mismo tiempo o en horarios diferentes puedan trabajar en un mismo archivo o documento digital, desde diferentes ubicaciones geográficas y diferentes dispositivos tecnológicos. Esta actividad se facilita gracias al uso de herramientas como OneDrive, SharePoint, Google Drive o Teams, entre otras, las cuales permiten que los equipos de trabajo pueda trabajar colaborativamente en tiempo real o diferido, haciendo aportes, editando, corrigiendo, agregando comentarios y manteniendo versiones actualizadas sin necesidad de tener que estar enviándose los archivos por medio de correo electrónicos o cualquier otro sistema de mensajería, generando con ello una lluvia de múltiples copias.
+        p.mb-0 Es el procedimiento que permite que varias personas al mismo tiempo o en horarios diferentes puedan trabajar en un mismo archivo o documento digital, desde diferentes ubicaciones geográficas y diferentes dispositivos tecnológicos. Esta actividad se facilita gracias al uso de herramientas como #[b OneDrive, SharePoint, Google Drive o Teams], entre otras, las cuales permiten que los equipos de trabajo pueda trabajar colaborativamente en tiempo real o diferido, haciendo aportes, editando, corrigiendo, agregando comentarios y manteniendo versiones actualizadas sin necesidad de tener que estar enviándose los archivos por medio de correo electrónicos o cualquier otro sistema de mensajería, generando con ello una lluvia de múltiples copias.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-6.col-8.mb-3.mb-lg-0(data-aos="fade-right")
@@ -176,7 +176,7 @@
               td Creación de propuestas comerciales para clientes.
               td Teams con Word Online.
               td Documento colaborativo.
-              td Redacción conjunta entre equipos de ventas y marketing.
+              td Redacción conjunta entre equipos de ventas y #[em marketing].
               td Agilidad en la generación de propuestas y comunicación integrada.
 
 

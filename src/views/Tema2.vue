@@ -59,7 +59,7 @@
           tbody
             tr
               td Chat
-              td Herramienta de mensajería instantánea que permite conversaciones individuales o grupales en tiempo real, con opciones para destacar mensajes, usar arreglo y compartir archivos.
+              td Herramienta de mensajería instantánea que permite conversaciones individuales o grupales en tiempo real, con opciones para destacar mensajes, usar #[em emojis] y compartir archivos. 
             tr
               td Videollamadas
               td Facilita reuniones virtuales con audio y vídeo de alta calidad, uso compartido de pantalla y fondos personalizados para experiencias colaborativas más humanas.
@@ -92,7 +92,7 @@
               td Implementa políticas de acceso condicional y autenticación multifactor (MFA) para proteger cuentas y restringir el acceso según ubicación o dispositivo.
             tr
               td Protección avanzada frente a amenazas
-              td Utiliza tecnologías antimalware y emigthsNng, y permite colaboración segura con invitados externos mediante permisas definidas.
+              td Utiliza tecnologías #[em antimalware] y #[em antiphishing], y permite colaboración segura con invitados externos mediante permisas definidas.
             tr
               td Aplicación móvil (Teams Mobile App)
               td Ofrece todos los funciones esenciales de mensajería, videollamedas y colaboración desde dispositivos móviles, garantizando consciividad en movimiento.
@@ -197,7 +197,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t2/5.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 El chat es un espacio de mensajería instantánea por medio del cual se pueden organizar, entablar y mantener conversaciones sin hacer uso del correo electrónico. Por medio de este tipo de recursos, los usuarios pueden intercambiar ideas, compartir archivos, mencionar a otros usuarios, reaccionar con emojis o GIFs, fijar mensajes importantes, generando un ambiente para una comunicación más dinámica y cercana. Estos sistemas también ofrecen la posibilidad de crear chats privados o grupales, optimizando la organización de la información para espacios productivos y aprovechando los equipos de trabajo. 
+        p.mb-0 El chat es un espacio de mensajería instantánea por medio del cual se pueden organizar, entablar y mantener conversaciones sin hacer uso del correo electrónico. Por medio de este tipo de recursos, los usuarios pueden intercambiar ideas, compartir archivos, mencionar a otros usuarios, reaccionar con #[em emojis] o GIFs, fijar mensajes importantes, generando un ambiente para una comunicación más dinámica y cercana. Estos sistemas también ofrecen la posibilidad de crear chats privados o grupales, optimizando la organización de la información para espacios productivos y aprovechando los equipos de trabajo. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="fade-right")
@@ -412,7 +412,7 @@
               td Aumenta la eficiencia en la programación y reduce la duplicidad de agendas.
             tr
               td Trello o Asena
-              td Gestión de flujos de trabajo e integración visual de tableros Kanban.
+              td Gestión de flujos de trabajo e integración visual de tableros #[em Kanban].
               td Mejora la coordinación y priorización de tareas colaborativas.
             tr
               td Forms

@@ -19,7 +19,7 @@
     .row.justify-content-center.mb-4
       .col-lg-9(data-aos="fade-right")
         .bg-1.tarjeta.p-4.h-100
-          p.mb-0 Con el uso de SharePoint, las empresas pueden crear intranets personalizadas, sitios de trabajo de acuerdo con un proyecto o departamento en común, además de almacenar documentos en la nube llevando trazabilidad y control de versiones. También pueden sincronizar archivos con OneDrive, así como editar en Word, Excel o PowerPoint directamente desde el navegador. Otra de sus ventajas es la integración que tiene con Teams, lo cual permite el acceso a bibliotecas de documentos o listas desde los canales de comunicación. De igual manera, SharePoint brinda recursos para la creación de listas inteligentes, paneles de control, aplicaciones personalizadas y formularios, lo cual también mejora la trazabilidad y el control en los procesos organizacionales. 
+          p.mb-0 Con el uso de SharePoint, las empresas pueden crear intranets personalizadas, sitios de trabajo de acuerdo con un proyecto o departamento en común, además de almacenar documentos en la nube llevando trazabilidad y control de versiones. También pueden sincronizar archivos con OneDrive, así como editar en #[em Word, Excel] o PowerPoint directamente desde el navegador. Otra de sus ventajas es la integración que tiene con Teams, lo cual permite el acceso a bibliotecas de documentos o listas desde los canales de comunicación. De igual manera, SharePoint brinda recursos para la creación de listas inteligentes, paneles de control, aplicaciones personalizadas y formularios, lo cual también mejora la trazabilidad y el control en los procesos organizacionales. 
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/2.svg', alt='')
 
@@ -211,7 +211,7 @@
               td Permite revisar, aprobar o rechazar contenido generado por otros usuarios. Dirigido a supervisores o responsables de control de calidad.
             tr
               td Administrar jerarquía
-              td Autoriza crear y editar sitios, páginas y subestructuras, además de manejar herencia de permisos. Recomendado para administradores de contenido o webmasters.
+              td Autoriza crear y editar sitios, páginas y subestructuras, además de manejar herencia de permisos. Recomendado para administradores de contenido o #[em webmasters].
 
     p.mb-4 En SharePoint también se maneja la herencia de permisos, esto quiere decir que cuando hay elementos (carpetas, archivos, entre otros) que estén contenidos dentro de otros, por ejemplo, al interior de un sitio, ellos conservan los permisos del sitio o de el que lo contenga; por ejemplo, una carpeta hereda los permisos a las subcarpetas que están dentro de ella.
 
