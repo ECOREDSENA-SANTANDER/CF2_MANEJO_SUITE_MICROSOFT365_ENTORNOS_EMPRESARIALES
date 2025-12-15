@@ -7,7 +7,7 @@
         span 1
       h1 Trabajo colaborativo en entornos digitales 
       
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.br-1.p-md-5.mb-4
+    .bloque-texto-g.bg-5.br-1.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t1/1.jpg')})`}"
       )
@@ -18,7 +18,7 @@
       .col-lg-9(data-aos="fade-right")
         .bg-1.tarjeta.p-4.h-100
           p.mb-0 El trabajo colaborativo representa una estrategia de gestión que integra personas, procesos y tecnologías que permiten a las organizaciones alcanzar objetivos en forma eficiente. Esta modalidad de trabajo se fundamenta en la cooperación activa entre equipos de una misma área o departamento, así como entre equipos multidisciplinarios, donde cada miembro aporta sus conocimientos y habilidades a través de herramientas digitales que facilitan la comunicación, la planificación, la ejecución y el seguimiento de las tareas definidas y en desarrollo. Se puede decir que esta modalidad, gracias a los avances tecnológicos, promueve la sinergia organizacional, optimiza los recursos y fomenta una cultura de innovación orientada a resultados.
-      .col-lg-3(data-aos="fade-left")
+      .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/2.svg', alt='')
 
     p.mb-4 A continuación, se presenta una tabla en donde por medio de ejemplos se muestran diferentes formas y herramientas digitales que permiten a las organizaciones aprovechar el trabajo colaborativo. Cada ejemplo ilustra la aplicación práctica de la colaboración en línea en distintos contextos empresariales, promoviendo la productividad y la innovación conjunta:
@@ -118,7 +118,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.2 Edición compartida de archivos en línea
 
-    .bloque-texto-g.bloque-texto-g--inverso.bg-3.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade")
+    .bloque-texto-g.bloque-texto-g--inverso.bg-3.br-2.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade")
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t1/2.png')})`}"
       )
@@ -126,7 +126,7 @@
         p.mb-0 Es el procedimiento que permite que varias personas al mismo tiempo o en horarios diferentes puedan trabajar en un mismo archivo o documento digital, desde diferentes ubicaciones geográficas y diferentes dispositivos tecnológicos. Esta actividad se facilita gracias al uso de herramientas como OneDrive, SharePoint, Google Drive o Teams, entre otras, las cuales permiten que los equipos de trabajo pueda trabajar colaborativamente en tiempo real o diferido, haciendo aportes, editando, corrigiendo, agregando comentarios y manteniendo versiones actualizadas sin necesidad de tener que estar enviándose los archivos por medio de correo electrónicos o cualquier otro sistema de mensajería, generando con ello una lluvia de múltiples copias.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3(data-aos="fade-right")
+      .col-lg-3.col-md-6.col-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/3.png', alt='')
       .col-lg-9(data-aos="fade-left")
         .bg-color-adicional-1.mb-4.p-4
@@ -142,7 +142,42 @@
           caption Fuente: SENA, (2025)
           thead
             tr.bg-2
-              th 
+              th Situación empresarial
+              th Herramienta digital utilizada
+              th Tipo de archivo
+              th Forma de colaboración
+              th Beneficio principal
+          tbody
+            tr
+              td Elaboración de informes de avance de proyectos.
+              td Microsoft Word en OneDrive o SharePoint.
+              td Documento de texto.
+              td Varios miembros del equipo editar, comentar y revisar simultáneamente.
+              td Alhora de tiempo y coherencia en la información.
+            tr
+              td Diseño de presentaciones para reuniones ejecutivas.
+              td Microsoft PowerPoint o Google Slides.
+              td Presentación.
+              td Creucción en tiempo real, integración de ideas y revisión colaborativa.
+              td Mejora la calidad de las presentaciones.
+            tr
+              td Consolidación de datos financieros.
+              td Excel en la nube (OneDrive o Google Sheets).
+              td Hola de cálculo.
+              td Diferentes departamentos actualizan datos desde sus áreas.
+              td Actualización instantánea y reducción de errores.
+            tr
+              td Revisión de políticas internas de la empresa.
+              td SharePoint.
+              td Documento compartido.
+              td Empleados de distintas sedes comentas y propones ajustes.
+              td Mayor participación y alineación organizacional.
+            tr
+              td Creación de propuestas comerciales para clientes.
+              td Teams con Word Online.
+              td Documento colaborativo.
+              td Redacción conjunta entre equipos de ventas y marketing.
+              td Agilidad en la generación de propuestas y comunicación integrada.
 
 
 
@@ -150,17 +185,56 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3 Retos en las organizaciones 
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-2.col-md-3.col-4.mb-3.mb-lg-0(data-aos="fade-right")
+        img(src='@/assets/curso/temas/t1/4.svg', alt='')
+      .col-lg-10.col-md-9(data-aos="fade-left")
+        p El trabajo colaborativo en los entornos digitales representa una gran oportunidad para las empresas que buscan aumentar su productividad y adaptarse a la transformación digital; aunque su implementación no está exenta de retos y desafíos que podrían afectar la eficiencia y cohesión de los equipos.
+        p A continuación, se presentan algunos de los retos a los que se enfrentan las organizaciones en los trabajos colaborativo en entornos digitales:
+
 
     .div(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
         h5 Tabla 3.
-        span 
+        span Retos a los que se enfrentan las organizaciones en los entornos digitales
       .tabla-a.color-acento-contenido.text-start
-        table(alt="")
+        table(alt="La tabla expone los principales desafíos que enfrentan las organizaciones en los entornos digitales. Entre ellos destacan la resistencia al cambio, la dependencia tecnológica, la gestión ineficaz del liderazgo virtual y la falta de cultura colaborativa. También se incluyen dificultades relacionadas con la brecha de competencias digitales, la comunicación dispersa, la sobrecarga informativa, la indefinición de roles, los riesgos de seguridad y la desconexión humana. Estos retos evidencian la necesidad de fortalecer la gestión del talento, la cultura digital y las estrategias de ciberseguridad para lograr una transformación organizacional sostenible.")
           caption Fuente: SENA, (2025)
           thead
             tr.bg-2
-              th 
+              th.w-25 Reto organizacional
+              th Descripción
+          tbody
+            tr
+              td Resistencia el cambio organizacional.
+              td Algunos colaboradores o líderes muestran resistencia a modificar sus hábitos y adoptar nuevas herramientas digitales.
+            tr
+              td Dependencia tecnológica.
+              td Las fallas en la conexión, los sistemas o las plataformas pueden interrumpir al flujo de trabajo y afectar los resultados.
+            tr
+              td Gestión ineficaz del liderazgo virtual.
+              td Dirigir equipos remotos requiere habilidades de comunicación, motivación y evaluación que no siempre están desarrolladas.
+            tr
+              td Falta de cultura colaborativa.
+              td La ausencia de valores organizacionales que promuevan la cooperación limita la efectividad del trabajo en equipo digital.
+            tr
+              td Brecha de compartencias digitales.
+              td Existan diferencias en el nivel de dominio tecnológico entre los miembros del equipo, lo que afecta la eficiencia colaborativa.
+            tr
+              td Comunicación estructural de diversas.
+              td La intersección digital puede generar preferencialidad o pérdida de información clave si no se gestionan adecuadamente los cambios de comunicación.
+            tr
+              td Sobrecarga informativa.
+              td El exceso de correos, mensajes o documentos compartidos puede provocar distracciones y disminuir la productividad.
+            tr
+              td Falta de claridad en roles y responsabilidades.
+              td La ausencia de una estructura definida pueda ocasionar duplicación de tareas o falta de seguimiento en los proyectos.
+            tr
+              td Seguridad y privacidad de la información.
+              td El intercambio de datos en la pubs implica riesgos de obstratargese o acceso a su realización si no se aplican medidas de protección adecuadas.
+            tr
+              td Desconexión humana y alejamiento laboral.
+              td La falta de intersección presental puede debilitar la cohesión del equipo y disminuir el sentido de pertenencia.
 
 
 
