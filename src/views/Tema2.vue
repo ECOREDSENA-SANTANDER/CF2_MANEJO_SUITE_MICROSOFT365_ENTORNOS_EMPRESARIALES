@@ -62,7 +62,7 @@
               td Herramienta de mensajería instantánea que permite conversaciones individuales o grupales en tiempo real, con opciones para destacar mensajes, usar #[em emojis] y compartir archivos. 
             tr
               td Videollamadas
-              td Facilita reuniones virtuales con audio y vídeo de alta calidad, uso compartido de pantalla y fondos personalizados para experiencias colaborativas más humanas.
+              td Facilita reuniones virtuales con audio y video de alta calidad, uso compartido de pantalla y fondos personalizados para experiencias colaborativas más humanas.
             tr
               td Llamadas de voz
               td Permite realizar llamadas directas desde Teams, con funciones como buzón de voz, desvío y transferencia de llamadas, ideal para comunicaciones rápidas y efectivas.
@@ -73,8 +73,8 @@
               td Archivos
               td Repositorio central integrado con SharePoint y OneDrive que permite almacenar, compartir y editar documentos en tiempo real con control de versiones.
             tr
-              td Pedrafías
-              td Permiten integrar aplicaciones, documentos o herramientas externas (como Excel, Trabo o GitHub) dentro de los canales, personalizando el entorno de trabajo.
+              td Pestañas
+              td Permiten integrar aplicaciones, documentos o herramientas externas (como Excel, Trello o GitHub) dentro de los canales, personalizando el entorno de trabajo.
             tr
               td Tareas y planificadores
               td Función que organiza el trabajo mediante herramientas como Planner y To Do, permitiendo asignar responsabilidades, establecer plazas y hacer seguimiento de avances.
@@ -83,7 +83,7 @@
               td Sincroniza automáticamente con Outlook, permitiendo programar; visualizar y unirse a reuniones desde Teams, con recordatorios integrados.
             tr
               td Recapitulaciones de reuniones
-              td Causa automáticamente grabaciones, transadpciones, archivos compartidos y restrientes de reuniones, facilitando el seguimiento y la rendición de cuentas.
+              td Genera automáticamente grabaciones, transcripciones, archivos compartidos y resúmenes de reuniones, facilitando el seguimiento y la rendición de cuentas.
             tr
               td Protección de datos y privacidad
               td Asegura la confidencialidad de la información mediante cifrado de datos, cumplimiento normativo (ISO, HIPAA, GDPR) y herramientas de auditoría.
@@ -92,7 +92,7 @@
               td Implementa políticas de acceso condicional y autenticación multifactor (MFA) para proteger cuentas y restringir el acceso según ubicación o dispositivo.
             tr
               td Protección avanzada frente a amenazas
-              td Utiliza tecnologías #[em antimalware] y #[em antiphishing], y permite colaboración segura con invitados externos mediante permisas definidas.
+              td Utiliza tecnologías #[em antimalware] y #[em antiphishing], y permite colaboración segura con invitados externos mediante permisos definidos.
             tr
               td Aplicación móvil (Teams Mobile App)
               td Ofrece todos los funciones esenciales de mensajería, videollamedas y colaboración desde dispositivos móviles, garantizando consciividad en movimiento.
@@ -113,7 +113,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t2/4.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En Microsoft Teams las reuniones en línea son sesiones virtuales que combinan audio, vídeo, chat, pantalla compartida y colaboración en tiempo real, para conectar personas o equipos sin importar su ubicación geográfica. Esta herramienta en las sesiones virtuales permite realizar videollamadas, compartir pantalla, grabar sesiones e integrar otras aplicaciones, fomentando de esta forma una comunicación sincrónica, fluida y productiva. En el plano organizacional, especialmente en espacios laborales o educativos, donde más se utilizan, permite optimizar la coordinación de proyectos, compartir información, reducir costos logísticos y barreras físicas, fortalecer la toma de decisiones, aumentar los espacios de interacción, entre muchas otras; garantizando la continuidad del trabajo y la cohesión de los equipos en entornos híbridos y remotos, reduciendo tiempos y costos.
+        p.mb-0 En Microsoft Teams las reuniones en línea son sesiones virtuales que combinan audio, video, chat, pantalla compartida y colaboración en tiempo real, para conectar personas o equipos sin importar su ubicación geográfica. Esta herramienta en las sesiones virtuales permite realizar videollamadas, compartir pantalla, grabar sesiones e integrar otras aplicaciones, fomentando de esta forma una comunicación sincrónica, fluida y productiva. En el plano organizacional, especialmente en espacios laborales o educativos, donde más se utilizan, permite optimizar la coordinación de proyectos, compartir información, reducir costos logísticos y barreras físicas, fortalecer la toma de decisiones, aumentar los espacios de interacción, entre muchas otras; garantizando la continuidad del trabajo y la cohesión de los equipos en entornos híbridos y remotos, reduciendo tiempos y costos.
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t2/subt.svg', alt='')
@@ -128,11 +128,11 @@
         p.mb-0 Usar la función levantar la mano, moderar preguntas por chat, grabar solo si todos están informados y usar subtítulos cuando haya barreras de idioma o audición.
       .col-md.tarjeta.color-acento-contenido.p-5
         h4.text-center Después
-        p.mb-0 Revisar el recap generado (grabación, transcripción y registro del chat), convertir los compromisos en tareas concretas para seguimiento y archivar los recursos utilizados, garantizando trazabilidad y disponibilidad futura.
+        p.mb-0 Revisar el #[em recap] generado (grabación, transcripción y registro del chat), convertir los compromisos en tareas concretas para seguimiento y archivar los recursos utilizados, garantizando trazabilidad y disponibilidad futura.
     
     p.mb-4 A continuación, se presentan ejemplos prácticos que ilustran cómo esta plataforma potencia la comunicación, la coordinación y el aprendizaje colaborativo:
 
-    .div.mb-4(data-aos="fade-down")
+    .div.mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
         h5 Tabla 5.
         span Ejemplos de reuniones virtuales con Microsoft Teams en contextos empresariales
@@ -147,11 +147,11 @@
           tbody
             tr
               td #[b Planificación estratégica:] directivos y gerentes se conectan por Teams para definir objetivos, revisar resultados y coordinar tareas. Se utilizan canales dedicados por departamentos y se comparten documentos en SharePoint.
-              td La empresa Terroxone realiza cada lunes una reunión por Teams para planificar las metas semanales con líderes de diferentes sedes.
+              td La empresa Tecnozone realiza cada lunes una reunión por Teams para planificar las metas semanales con líderes de diferentes sedes.
               td Reducción de costos logísticos, toma de decisiones más agiles, registro automático de acuerdos y grabación para seguimiento.
             tr
               td #[b Capacitación corporativa:] al área de talento humano programa exatores formativas mediante Teams. Se integran presentaciones en PowerPoint y cuestionarios con Microsoft Forms.
-              td Una empresa del sector financiero dicta talleres virtuales de ciberespiritual usando Teams, donde los empleados participan y completan evaluaciones en línea.
+              td Una empresa del sector financiero dicta talleres virtuales de ciberseguridad usando Teams, donde los empleados participan y completan evaluaciones en línea.
               td Facilita la formación continua, permite interacción en tiempo real y registro automático de existencia.
             tr
               td #[b Reuniones con clientes o socios:] los equipos comerciales usen Teams para videoconferencias con clientes, compartiendo propuestas o presentaciones desde OneDrive.
@@ -181,7 +181,7 @@
               td Fomenta el acompañamiento personalizado, ahorro de tiempo y comunicación fluida entre docente y estudiante.
             tr
               td #[b Reuniones institucionales o de coordinación docente:] los coordinadores de programas o decanos convocan reuniones por Teams para planificar actividades académicas y elaborar actas digitales.
-              td El Consejo Académico de una universidad se reúne por Teams para revisar proyectos de investigación y asomlar criterios de evaluación.
+              td El consejo académico de una universidad se reúne por Teams para revisar proyectos de investigación y acordar criterios de evaluación.
               td Facilita la coordinación interinstitucional, mejora la participación y reduce tiempos administrativos.
 
 
@@ -197,7 +197,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t2/5.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 El chat es un espacio de mensajería instantánea por medio del cual se pueden organizar, entablar y mantener conversaciones sin hacer uso del correo electrónico. Por medio de este tipo de recursos, los usuarios pueden intercambiar ideas, compartir archivos, mencionar a otros usuarios, reaccionar con #[em emojis] o GIFs, fijar mensajes importantes, generando un ambiente para una comunicación más dinámica y cercana. Estos sistemas también ofrecen la posibilidad de crear chats privados o grupales, optimizando la organización de la información para espacios productivos y aprovechando los equipos de trabajo. 
+        p.mb-0 El chat es un espacio de mensajería instantánea por medio del cual se pueden organizar, entablar y mantener conversaciones sin hacer uso del correo electrónico. Por medio de este tipo de recursos, los usuarios pueden intercambiar ideas, compartir archivos, mencionar a otros usuarios, reaccionar con #[em emojis] o #[em GIFs], fijar mensajes importantes, generando un ambiente para una comunicación más dinámica y cercana. Estos sistemas también ofrecen la posibilidad de crear chats privados o grupales, optimizando la organización de la información para espacios productivos y aprovechando los equipos de trabajo. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="fade-right")
@@ -421,10 +421,10 @@
             tr
               td OneNote
               td Espacio compartido para notas, apuntes y material de clase.
-              td Favoroso la colaboración y el aprendizaje activo entre estudiantes.
+              td Favorece la colaboración y el aprendizaje activo entre estudiantes.
             tr
               td Kahoot
-              td Integración de actividades gamificadas en sealones en vivo de Teams.
+              td Integración de actividades gamificadas en sesiones en vivo de Teams.
               td Aumenta la motivación y el compromiso del estudiante.
 
     .tarjeta.color-primario.p-3
@@ -437,14 +437,14 @@
             .col.mb-3.mb-sm-0
               p.mb-0 Introducción a Teams y programación de reuniones. 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Introducción_a_Teams_y_programación _de_reuniones_Video_CF02.mp4')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Introduccion_Teams_programacion_reuniones.mp4')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p.mb-0 Equipos y canales en Teams.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Equipos_y_canales_en_Teams_Video_CF02.mp4')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Equipos_canales_Teams.mp4')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
 

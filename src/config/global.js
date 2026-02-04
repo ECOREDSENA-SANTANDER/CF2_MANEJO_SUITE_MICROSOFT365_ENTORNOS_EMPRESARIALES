@@ -163,7 +163,7 @@ export default {
     {
       tema: 'SharePoint',
       referencia:
-        'GoDaddy. (2025). Cómo SharePoint optimiza la colaboración en las empresas. GoDaddy Resources – LATAM. ',
+        'GoDaddy. (2025). Cómo SharePoint optimiza la colaboración en las empresas. GoDaddy Resources – LATAM.',
       tipo: 'Sitio web',
       link:
         'https://www.godaddy.com/resources/latam/tecnologia/sharepoint-y-mejorar-la-colaboracion-empresarial',
@@ -171,7 +171,7 @@ export default {
     {
       tema: 'Teams',
       referencia:
-        'GoDaddy. (2025). Microsoft Teams: Qué es y cómo utilizarlo para mejorar tu productividad en el trabajo. GoDaddy Resources – LATAM.',
+        'GoDaddy. (2025). Microsoft Teams: Qué es y cómo utilizarlo para mejorar tu productividad en el trabajo. GoDaddy Resources – LATAM. ',
       tipo: 'Sitio web',
       link:
         'https://www.godaddy.com/resources/latam/digitalizacion/que-es-microsoft-teams',
@@ -179,14 +179,14 @@ export default {
     {
       tema: 'Teams',
       referencia:
-        'Juan & Lucía. (2025). Cómo usar Microsoft Teams | Microsoft Teams tutorial español (2025) [Video]. YouTube.',
+        'Juan & Lucía. (2025). Cómo usar Microsoft Teams | Microsoft Teams tutorial español (2025). ',
       tipo: 'Vídeo',
       link: 'https://www.youtube.com/watch?v=8TbORlEBlf4',
     },
     {
       tema: 'SharePoint',
       referencia:
-        'M365 Hoy. (2024). Cómo funciona SharePoint Online: Guía completa para principiantes [Video]. YouTube.',
+        'M365 Hoy. (2024). Cómo funciona SharePoint Online: Guía completa para principiantes.',
       tipo: 'Vídeo',
       link: 'https://www.youtube.com/watch?v=Cf-BPmrQ0eI',
     },
@@ -195,7 +195,7 @@ export default {
     {
       termino: 'Acceso remoto',
       significado:
-        'Capacidad de ingresar y utilizar sistemas, archivos o aplicaciones desde cualquier lugar con conexión a Internet, lo que facilita la continuidad de las operaciones y el teletrabajo en entornos empresariales.',
+        'Capacidad de ingresar y utilizar sistemas, archivos o aplicaciones desde cualquier lugar con conexión a internet, lo que facilita la continuidad de las operaciones y el teletrabajo en entornos empresariales.',
     },
     {
       termino: 'Almacenamiento digital',

@@ -58,7 +58,7 @@
               td Colaboración individual y por parte.
               td Permite acceso remoto y evita pérdida de información.
             tr
-              td Google iDose
+              td Google Docs
               td Elaboración conjunta de informes o propuestas empresariales.
               td Edición simultánea y coautoria.
               td Promueve la participación activa y evita duplicidad de documentos.
@@ -66,7 +66,7 @@
               td Trello
               td Planificación de proyectos y seguimiento de actividades por fases.
               td Colaboración visual mediante tableros.
-              td Enconoce la organización de procesos y la priorización de tareas.
+              td Favorece la organización de procesos y la priorización de tareas.
             tr
               td Zoom
               td Reuniones estratégicas o capacitaciones a distancia.
@@ -86,32 +86,32 @@
         .row.justify-content-center.mb-3
           .col-4.col-lg-5.col-md-5
             img(src='@/assets/curso/temas/t1/tarj-1.svg' alt='')
-        p #[b Fomenta la innovación y la creatividad:] Las plataformas digitales permiten compartir ideas en tiempo real, generar lluvias de ideas virtuales y construir soluciones conjuntas desde distintos lugares, impulsando la creatividad colectiva.
+        p #[b Fomenta la innovación y la creatividad:] las plataformas digitales permiten compartir ideas en tiempo real, generar lluvias de ideas virtuales y construir soluciones conjuntas desde distintos lugares, impulsando la creatividad colectiva.
       .tarjeta.bg-2.bg-tarj.p-4
         .row.justify-content-center.mb-3
           .col-4.col-lg-5.col-md-5
             img(src='@/assets/curso/temas/t1/tarj-2.svg' alt='')
-        p #[b Facilita la resolución de problemas:] Herramientas como Teams o SharePoint permiten que los equipos analicen desafíos de forma simultánea, compartan documentos y lleguen a consensos más rápidos y efectivos.
+        p #[b Facilita la resolución de problemas:] herramientas como Teams o SharePoint permiten que los equipos analicen desafíos de forma simultánea, compartan documentos y lleguen a consensos más rápidos y efectivos.
       .tarjeta.bg-2.bg-tarj.p-4
         .row.justify-content-center.mb-3
           .col-4.col-lg-5.col-md-5
             img(src='@/assets/curso/temas/t1/tarj-3.svg' alt='')
-        p #[b Incrementa la motivación y el sentido de pertenencia:] La colaboración digital promueve la participación activa y el reconocimiento del aporte individual dentro del logro grupal, fortaleciendo el compromiso organizacional.
+        p #[b Incrementa la motivación y el sentido de pertenencia:] la colaboración digital promueve la participación activa y el reconocimiento del aporte individual dentro del logro grupal, fortaleciendo el compromiso organizacional.
       .tarjeta.bg-2.bg-tarj.p-4
         .row.justify-content-center.mb-3
           .col-4.col-lg-5.col-md-5
             img(src='@/assets/curso/temas/t1/tarj-4.svg' alt='')
-        p #[b Aumenta la productividad y eficiencia:] La coordinación de tareas mediante aplicaciones como Planner o OneDrive mejora la gestión del tiempo, reduce duplicidad de esfuerzos y agiliza los flujos de trabajo.
+        p #[b Aumenta la productividad y eficiencia:] la coordinación de tareas mediante aplicaciones como Planner o OneDrive mejora la gestión del tiempo, reduce duplicidad de esfuerzos y agiliza los flujos de trabajo.
       .tarjeta.bg-2.bg-tarj.p-4
         .row.justify-content-center.mb-3
           .col-4.col-lg-5.col-md-5
             img(src='@/assets/curso/temas/t1/tarj-5.svg' alt='')
-        p #[b Promueve el aprendizaje continuo:] Los entornos digitales facilitan la capacitación colaborativa, el intercambio de conocimientos y la actualización permanente del personal.
+        p #[b Promueve el aprendizaje continuo:] los entornos digitales facilitan la capacitación colaborativa, el intercambio de conocimientos y la actualización permanente del personal.
       .tarjeta.bg-2.bg-tarj.p-4
         .row.justify-content-center.mb-3
           .col-4.col-lg-5.col-md-5
             img(src='@/assets/curso/temas/t1/tarj-6.svg' alt='')
-        p #[b Fortalece las relaciones interpersonales:] A través de canales de comunicación virtuales, se mejora la interacción entre áreas, equipos y sedes, creando una cultura organizacional más conectada y participativa.
+        p #[b Fortalece las relaciones interpersonales:] a través de canales de comunicación virtuales, se mejora la interacción entre áreas, equipos y sedes, creando una cultura organizacional más conectada y participativa.
 
 
     Separador  
@@ -152,13 +152,13 @@
               td Elaboración de informes de avance de proyectos.
               td Microsoft Word en OneDrive o SharePoint.
               td Documento de texto.
-              td Varios miembros del equipo editar, comentar y revisar simultáneamente.
-              td Alhora de tiempo y coherencia en la información.
+              td Varios miembros del equipo editan, comentan y revisan simultáneamente.
+              td Ahorro de tiempo y coherencia en la información.
             tr
               td Diseño de presentaciones para reuniones ejecutivas.
               td Microsoft PowerPoint o Google Slides.
               td Presentación.
-              td Creucción en tiempo real, integración de ideas y revisión colaborativa.
+              td Coautoría en tiempo real, integración de ideas y revisión colaborativa.
               td Mejora la calidad de las presentaciones.
             tr
               td Consolidación de datos financieros.
@@ -192,7 +192,6 @@
         p El trabajo colaborativo en los entornos digitales representa una gran oportunidad para las empresas que buscan aumentar su productividad y adaptarse a la transformación digital; aunque su implementación no está exenta de retos y desafíos que podrían afectar la eficiencia y cohesión de los equipos.
         p A continuación, se presentan algunos de los retos a los que se enfrentan las organizaciones en los trabajos colaborativo en entornos digitales:
 
-
     .div(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
         h5 Tabla 3.
@@ -221,7 +220,7 @@
               td Brecha de compartencias digitales.
               td Existan diferencias en el nivel de dominio tecnológico entre los miembros del equipo, lo que afecta la eficiencia colaborativa.
             tr
-              td Comunicación estructural de diversas.
+              td Comunicación asincrónica o dispersa.
               td La intersección digital puede generar preferencialidad o pérdida de información clave si no se gestionan adecuadamente los cambios de comunicación.
             tr
               td Sobrecarga informativa.
@@ -231,7 +230,7 @@
               td La ausencia de una estructura definida pueda ocasionar duplicación de tareas o falta de seguimiento en los proyectos.
             tr
               td Seguridad y privacidad de la información.
-              td El intercambio de datos en la pubs implica riesgos de obstratargese o acceso a su realización si no se aplican medidas de protección adecuadas.
+              td El intercambio de datos en la nube implica riesgos de ciberataques o accesos no autorizados si no se aplican medidas de protección adecuadas.
             tr
               td Desconexión humana y alejamiento laboral.
               td La falta de intersección presental puede debilitar la cohesión del equipo y disminuir el sentido de pertenencia.

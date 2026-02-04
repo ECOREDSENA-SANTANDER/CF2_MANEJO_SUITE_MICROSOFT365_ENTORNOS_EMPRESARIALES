@@ -19,7 +19,7 @@
     .row.justify-content-center.mb-4
       .col-lg-9(data-aos="fade-right")
         .bg-1.tarjeta.p-4.h-100
-          p.mb-0 Con el uso de SharePoint, las empresas pueden crear intranets personalizadas, sitios de trabajo de acuerdo con un proyecto o departamento en común, además de almacenar documentos en la nube llevando trazabilidad y control de versiones. También pueden sincronizar archivos con OneDrive, así como editar en #[em Word, Excel] o PowerPoint directamente desde el navegador. Otra de sus ventajas es la integración que tiene con Teams, lo cual permite el acceso a bibliotecas de documentos o listas desde los canales de comunicación. De igual manera, SharePoint brinda recursos para la creación de listas inteligentes, paneles de control, aplicaciones personalizadas y formularios, lo cual también mejora la trazabilidad y el control en los procesos organizacionales. 
+          p.mb-0 Con el uso de SharePoint, las empresas pueden crear intranets personalizadas, sitios de trabajo de acuerdo con un proyecto o departamento en común, además de almacenar documentos en la nube llevando trazabilidad y control de versiones. También pueden sincronizar archivos con OneDrive, así como editar en Word, Excel o PowerPoint directamente desde el navegador. Otra de sus ventajas es la integración que tiene con Teams, lo cual permite el acceso a bibliotecas de documentos o listas desde los canales de comunicación. De igual manera, SharePoint brinda recursos para la creación de listas inteligentes, paneles de control, aplicaciones personalizadas y formularios, lo cual también mejora la trazabilidad y el control en los procesos organizacionales. 
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/2.svg', alt='')
 
@@ -85,7 +85,7 @@
             .col.mb-3.mb-sm-0
               p.mb-0 OneDrive y SharePoint ¿Qué diferencias hay?  ¿Cuál usar? Microsoft 365
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Introducción_a_SharePoint_y_organización_de_archivos_Video_CF02.mp4')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Introduccion_SharePoint_organizacion_archivos.mp4')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
     
@@ -133,11 +133,11 @@
             tr
               td Sitio de proyecto
               td Espacio destinado a centralizar toda la información de un proyecto específico.
-              td #[b Carpetas por fases del proyecto:] planeación, Ejecución, Evaluación. Subcarpetas para documentos, actas y cronogramas.
+              td #[b Carpetas por fases del proyecto:] planeación, ejecución, evaluación, subcarpetas para documentos, actas y cronogramas.
             tr
               td Sitio de departamento
               td Área que agrupa documentos internos de un departamento (finanzas, RRHH, tecnología, etc.).
-              td #[b Carpetas por año y tipo de documento:] presupuestos 2025, Informes mensuales, Políticas internas.
+              td #[b Carpetas por año y tipo de documento:] presupuestos 2025, informes mensuales, políticas internas.
             tr
               td Elélicieca de documentos compartidos
               td Espacio común donde varios equipos coeditan y actualizan archivos.
