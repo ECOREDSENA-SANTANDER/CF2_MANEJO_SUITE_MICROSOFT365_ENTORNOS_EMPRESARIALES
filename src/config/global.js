@@ -257,40 +257,30 @@ export default {
     {
       referencia:
         'Clickup. (2024). 15 funciones básicas de Microsoft Teams para mejorar la productividad de su equipo en 2025. Clickup.com.',
-      link:
-        'https://clickup.com/es-ES/blog/225679/funciones-de-microsoft-teams',
     },
     {
       referencia:
         'Crivellaro, A. (2025). Trabajo colaborativo: beneficios y herramientas. Cloudworks.',
-      link: 'https://wearecloudworks.com/cloudmag/trabajo-colaborativo/',
     },
     {
       referencia:
         'Einig, M. (2022). Why SharePoint is key to greater collaboration efficiency. Rencore.com.',
-      link: 'https://rencore.com/en/blog/sharepoint-collaboration-efficiency',
     },
     {
       referencia:
         'GoDaddy. (2025). Microsoft Teams: Qué es y cómo utilizarlo para mejorar tu productividad en el trabajo. GoDaddy.',
-      link:
-        'https://www.godaddy.com/resources/latam/digitalizacion/que-es-microsoft-teams',
     },
     {
       referencia:
         'Marchi, G. (2022). SharePoint: qué es, para qué sirve y 7 funcionalidades clave. intranet.ai.',
-      link: 'https://intranet.ai/articulos/microsoft-365/sharepoint-online/ ',
     },
     {
       referencia:
         'Marshall, S. (2025). How to Manage Access/Permissions in SharePoint Online.',
-      link:
-        'https://www.lepide.com/blog/sharepoint-permissions-best-practices/',
     },
     {
       referencia:
         'Nunsys. (2018). Microsoft Sharepoint y las ventajas de una herramienta de trabajo integral.',
-      link: 'https://www.nunsys.com/microsoft-sharepoint-ventajas/ ',
     },
   ],
   creditos: [
@@ -338,8 +328,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -348,12 +338,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

@@ -74,20 +74,6 @@
                 img(src='@/assets/curso/temas/t3/tarj-2.svg', alt='')
             h2.text-center SharePoint 
             p Está centrado en la colaboración corporativa y el trabajo en equipo dentro de las organizaciones o empresas, permitiendo crear sitios compartidos, flujos de trabajo y bibliotecas documentales en donde una multiplicidad de usuarios pueden coeditar los archivos, asignar permisos, establecer niveles de acceso, versionar documentos, dejar comentarios en tiempo real, automatizar flujos de aprobación, y mantener un historial de cambios que garanticen la trazabilidad y la transparencia en la gestión de la información.
-
-    .tarjeta.color-primario.p-3.mb-4
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/t2/cta1.svg")
-        .col
-          p.mb-3 Diríjase al siguiente enlace, en donde se explica cuando usar OneDrive y cuando usar SharePoint:
-          .row.justify-content-between.align-items-center.mb-2
-            .col.mb-3.mb-sm-0
-              p.mb-0 OneDrive y SharePoint ¿Qué diferencias hay?  ¿Cuál usar? Microsoft 365
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Introduccion_SharePoint_organizacion_archivos.mp4')" target="_blank")
-                span Ir al sitio
-                i.fas.fa-file-video
     
     .row.justify-content-center.align-items-center
       .col-lg-9(data-aos="fade-right")
@@ -139,11 +125,11 @@
               td Área que agrupa documentos internos de un departamento (finanzas, RRHH, tecnología, etc.).
               td #[b Carpetas por año y tipo de documento:] presupuestos 2025, informes mensuales, políticas internas.
             tr
-              td Elélicieca de documentos compartidos
+              td Biblioteca de documentos compartidos 
               td Espacio común donde varios equipos coeditan y actualizan archivos.
               td Archivos de Word, Excel o PowerPoint con control de versiones y permisos diferenciados por rol.
             tr
-              td Sitio de capacitación o educación
+              td Sitio de capacitación o educación 
               td Espacio para docentes o capacitadores que comparten materiales y evaluaciones.
               td #[b Carpetas por curso o módulo:] metodología de la investigación I, Seminario de Tesis II, Evaluaciones y recursos.
             tr

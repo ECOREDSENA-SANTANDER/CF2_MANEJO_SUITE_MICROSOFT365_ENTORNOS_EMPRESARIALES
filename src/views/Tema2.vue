@@ -437,14 +437,14 @@
             .col.mb-3.mb-sm-0
               p.mb-0 Introducción a Teams y programación de reuniones. 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Introduccion_Teams_programacion_reuniones.mp4')" target="_blank")
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=GoJoE9raTNI')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p.mb-0 Equipos y canales en Teams.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Equipos_canales_Teams.mp4')" target="_blank")
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=ZGxFPoGeXyw')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
 
