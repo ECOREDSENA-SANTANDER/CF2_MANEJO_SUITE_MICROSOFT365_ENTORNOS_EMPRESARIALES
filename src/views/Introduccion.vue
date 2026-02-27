@@ -26,7 +26,7 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://youtu.be/5hgZb-taKwQ?si=LWn67eh2lgJKP0ib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/5hgZb-taKwQ?si=P06oGWKq6FecC_Ob" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Colaboración digital con Microsoft 365
 
 
