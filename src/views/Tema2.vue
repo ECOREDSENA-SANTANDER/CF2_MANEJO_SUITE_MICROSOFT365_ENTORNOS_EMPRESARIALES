@@ -408,7 +408,7 @@
               td Mejora la organización y acceso seguro a la información corporativa.
             tr
               td Outlook Calendar
-              td Sinzronización de reuniones y recordatorios directamente en Teams.
+              td Sincronización de reuniones y recordatorios directamente en Teams.
               td Aumenta la eficiencia en la programación y reduce la duplicidad de agendas.
             tr
               td Trello o Asena
