@@ -131,11 +131,11 @@
             tr
               td Sitio de capacitación o educación 
               td Espacio para docentes o capacitadores que comparten materiales y evaluaciones.
-              td #[b Carpetas por curso o módulo:] metodología de la investigación I, Seminario de Tesis II, Evaluaciones y recursos.
+              td #[b Carpetas por curso o módulo:] metodología de la investigación I, seminario de tesis II, evaluaciones y recursos.
             tr
               td Repositorio de políticas y procedimientos
               td Espacio destinado a documentos normativos o institucionales de acceso general.
-              td #[b Carpetas:] manual de calidad, Protocolos de seguridad, Reglamentos internos.
+              td #[b Carpetas:] manual de calidad, protocolos de seguridad, reglamentos internos.
 
 
     Separador  
@@ -188,7 +188,7 @@
               td Permite visualizar páginas, listas y documentos, sin posibilidad de modificarlos. Ideal para usuarios que solo necesitan acceso informativo.
             tr
               td Lectura restringida
-              td De acceso solo a las versiones actuales de documentos, sin permitir ver versiones anteriores. Útil para usuarios externos o presentes.
+              td Da acceso solo a las versiones actuales de documentos, sin permitir ver versiones anteriores. Útil para usuarios externos o pasantes. 
             tr
               td Solo lectura
               td Permite ver páginas y versiones anteriores de documentos, sin editar ni descargar. Pensado para usuarios con acceso de consulta únicamente.

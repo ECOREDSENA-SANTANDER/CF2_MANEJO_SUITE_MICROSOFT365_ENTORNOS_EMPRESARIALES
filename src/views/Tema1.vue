@@ -217,11 +217,11 @@
               td Falta de cultura colaborativa.
               td La ausencia de valores organizacionales que promuevan la cooperación limita la efectividad del trabajo en equipo digital.
             tr
-              td Brecha de compartencias digitales.
-              td Existan diferencias en el nivel de dominio tecnológico entre los miembros del equipo, lo que afecta la eficiencia colaborativa.
+              td Brecha de competencias digitales. 
+              td Existen diferencias en el nivel de dominio tecnológico entre los miembros del equipo, lo que afecta la eficiencia colaborativa.
             tr
               td Comunicación asincrónica o dispersa.
-              td La intersección digital puede generar preferencialidad o pérdida de información clave si no se gestionan adecuadamente los cambios de comunicación.
+              td La interacción digital puede generar malentendidos o pérdida de información clave si no se gestionan adecuadamente los canales de comunicación. 
             tr
               td Sobrecarga informativa.
               td El exceso de correos, mensajes o documentos compartidos puede provocar distracciones y disminuir la productividad.

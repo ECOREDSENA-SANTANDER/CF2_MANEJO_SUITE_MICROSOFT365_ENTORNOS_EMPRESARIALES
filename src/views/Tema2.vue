@@ -152,7 +152,7 @@
             tr
               td #[b Capacitación corporativa:] al área de talento humano programa exatores formativas mediante Teams. Se integran presentaciones en PowerPoint y cuestionarios con Microsoft Forms.
               td Una empresa del sector financiero dicta talleres virtuales de ciberseguridad usando Teams, donde los empleados participan y completan evaluaciones en línea.
-              td Facilita la formación continua, permite interacción en tiempo real y registro automático de existencia.
+              td Facilita la formación continua, permite interacción en tiempo real y registro automático de asistencia. 
             tr
               td #[b Reuniones con clientes o socios:] los equipos comerciales usen Teams para videoconferencias con clientes, compartiendo propuestas o presentaciones desde OneDrive.
               td Un asesor comercial realiza una demostración de producto a un cliente extranjero mediante Teams, usando la función de compartir pantalla.
@@ -252,60 +252,60 @@
             tr
               td Gestión de Proyectos TI.
               td 
-                ul.lista-ul.mb-0
+                ul.lista-ul.l-circle.mb-0
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Planeación
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Desarrollo
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Pruebas
                   li.mb-0
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Implementación
               td Coordinar todas las fases del proyecto tecnológico y mantener comunicación entre los desarrolladores.
             tr
               td #[em Marketing] Digital.
               td 
-                ul.lista-ul.mb-0
+                ul.lista-ul.l-circle.mb-0
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Campañas activas
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Análisis de métricas
                   li.mb-0
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Contenido multimedia
               td Centralizar la gestión de campañas y el análisis de resultados.
             tr
               td Curso Metodología de la Investigación.
               td
-                ul.lista-ul.mb-0
+                ul.lista-ul.l-circle.mb-0
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Lecturas
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Actividades prácticas 
                   li.mb-0
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Informes
               td Organizar el contenido académico y fomentar la colaboración entre estudiantes.
             tr
               td Grupo de investigación AITICE.
               td
-                ul.lista-ul.mb-0
+                ul.lista-ul.l-circle.mb-0
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Proyectos activos
                   li
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Publicaciones
                   li.mb-0
-                    i.fas.fa-minus
+                    i.fas.fa-circle
                     span.mb-0 Convocatorias
               td Facilitar el seguimiento de los proyectos y la comunicación entre investigadores.
 

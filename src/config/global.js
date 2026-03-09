@@ -132,11 +132,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
+      /*{
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
-      },
+      },*/
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -159,7 +159,7 @@ export default {
       },
     ],
   },
-  complementario: [
+  /*complementario: [
     {
       tema: 'SharePoint',
       referencia:
@@ -190,7 +190,7 @@ export default {
       tipo: 'Vídeo',
       link: 'https://www.youtube.com/watch?v=Cf-BPmrQ0eI',
     },
-  ],
+  ],*/
   glosario: [
     {
       termino: 'Acceso remoto',
@@ -288,12 +288,12 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Claudia Johanna Gómez Pérez',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
