@@ -43,12 +43,12 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 SharePoint está posicionado como un eje central de colaboración que permite a los equipos distribuidos dentro de las organizaciones editar y compartir documentos simultáneamente, sin importar su ubicación, lo que favorece la continuidad del trabajo en entornos híbridos y globales; además asegura el acceso a la información por medio de permisos y creación de sitios personalizados por departamentos o proyectos, también impulsa la productividad, la organización de contenidos y garantiza la gobernanza del conocimiento, convirtiéndose en una infraestructura digital que soporta y fortalece el trabajo en equipo en la era moderna (Einig, 2022). 
 
-    p.mb-4.mb-lg-5 En conclusión, el propósito de SharePoint es la consolidación de un entorno digital inteligente, integrando personas, procesos y contenidos en un mismo espacio en el que todo se trabaja de forma colaborativa. Sus valores estratégicos no solo se limitan al almacenamiento o a la gestión documental; sino que, por el contrario, reside en la capacidad de potencializar y robustecer la eficiencia en las organizaciones, facilitando la toma de decisiones en torno a información centralizada y fortaleciendo la cultura digital.
+    p.mb-4.mb-lg-5 En conclusión, el propósito de SharePoint es la consolidación de un entorno digital inteligente, integrando personas, procesos y contenidos en un mismo espacio en el que todo se trabaja de forma colaborativa. Sus valores estratégicos no solo se limitan al almacenamiento o a la gestión documental, sino que, por el contrario, residen en la capacidad de potencializar y robustecer la eficiencia en las organizaciones, facilitando la toma de decisiones en torno a información centralizada y fortaleciendo la cultura digital. 
 
     .bg-color-acento-contenido.tarjeta
       .row.justify-content-around.align-items-center
         .col-lg-8.col-md-11.col-11.p-4
-            p.text-white.mb-0 En una era, donde la transformación digital es exigente, SharePoint es una herramienta clave para garantizar la continuidad, la seguridad y la escalabilidad de las operaciones en los entornos empresariales, lo que promueve un modelo de trabajo más ágil, transparente e hiperconectado.
+            p.text-white.mb-0 En una era donde la transformación digital es exigente, SharePoint es una herramienta clave para garantizar la continuidad, la seguridad y la escalabilidad de las operaciones en los entornos empresariales, lo que promueve un modelo de trabajo más ágil, transparente e hiperconectado.
         .col-lg-3.col-md-5.col-7
           img.img-neg(src='@/assets/curso/temas/t3/5.png', alt='')
 
@@ -67,7 +67,7 @@
               .col-4.col-md-6.col-lg-5
                 img(src='@/assets/curso/temas/t3/tarj-1.svg', alt='')
             h2.text-center OneDrive
-            p Está orientado principalmente al almacenamiento personal en la nube, brindando a cada usuario un espacio privado para almacenar, trabajar, sincronizar y compartir archivos de forma segura. Esta herramienta es propicia para guardar documentos personales o de trabajo que no necesitan estar compartidos con la organización o los diferentes equipos o departamentos de la misma; por lo tanto su seguridad es responsabilidad propia del usuario.
+            p Está orientado principalmente al almacenamiento personal en la nube, brindando a cada usuario un espacio privado para almacenar, trabajar, sincronizar y compartir archivos de forma segura. Esta herramienta es propicia para guardar documentos personales o de trabajo que no necesitan estar compartidos con la organización o los diferentes equipos o departamentos de la misma; por lo tanto, su seguridad es responsabilidad propia del usuario.
           .col-md.tarjeta.color-secundario.p-5
             .row.justify-content-center.mb-4
               .col-4.col-md-6.col-lg-5
@@ -83,7 +83,7 @@
             .col-lg-2.col-md-2.col-3.mb-3.mb-lg-0
               img.px-lg-3(src='@/assets/curso/temas/t3/6.svg', alt='')
             .col-lg-10.col-md-10
-              p.mb-0 Esto demuestra que mientras que OneDrive es usado para gestionar archivos de forma individual o personal, SharePoint se utiliza en las organizaciones para centralizar la información organizacional y fomentar la colaboración estructurada entre los diferentes equipos de trabajo. En todo esto cabe anotar que estas dos herramientas si se complementan, ya que los documentos personales almacenados en OneDrive pueden ser publicados o compartidos en los espacios colaborativos de SharePoint cuando estos evolucionan a proyectos colectivos. 
+              p.mb-0 Esto demuestra que, mientras que OneDrive es usado para gestionar archivos de forma individual o personal, SharePoint se utiliza en las organizaciones para centralizar la información organizacional y fomentar la colaboración estructurada entre los diferentes equipos de trabajo. En todo esto cabe anotar que estas dos herramientas sí se complementan, ya que los documentos personales almacenados en OneDrive pueden ser publicados o compartidos en los espacios colaborativos de SharePoint cuando estos evolucionan a proyectos colectivos. 
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/7.png', alt='')
 
@@ -96,7 +96,7 @@
       .col-lg-4.col-md-8.col-11.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/8.png', alt='')
       .col-lg-8(data-aos="fade-left")
-        p.mb-4 Con la organización de archivos en espacios compartidos en SharePoint las empresas pueden crear sitios colaborativos, donde los documentos se agrupan en bibliotecas y carpetas estructuradas de acuerdo con proyectos, departamentos o procesos específicos. Esta arquitectura permite que los usuarios gestionen la información de forma ordenada y colaborativa, reduciendo la duplicidad de archivos y mejorando la productividad.
+        p.mb-4 Con la organización de archivos en espacios compartidos en SharePoint, las empresas pueden crear sitios colaborativos, donde los documentos se agrupan en bibliotecas y carpetas estructuradas de acuerdo con proyectos, departamentos o procesos específicos. Esta arquitectura permite que los usuarios gestionen la información de forma ordenada y colaborativa, reduciendo la duplicidad de archivos y mejorando la productividad.
         .row.justify-content-center
             .col-lg-2.col-md-2.col-3.mb-3.mb-lg-0
               img.px-lg-3(src='@/assets/curso/temas/t3/9.svg', alt='')
@@ -147,13 +147,13 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t3/10.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 La gestión de accesos y permisos es una de las fortalezas de la seguridad y la gobernanza de la información y esto SharePoint lo tiene claro y lo cumple al pie de la letra, al ser un sistema que controla quién puede ver, editar o administrar los contenidos dentro de los sitios, bibliotecas o carpetas compartidas, garantizando con ello que la información de la organización se mantenga segura, disponible para los usuarios autorizados y trazable.
+        p.mb-0 La gestión de accesos y permisos es una de las fortalezas de la seguridad y la gobernanza de la información, y esto SharePoint lo tiene claro y lo cumple al pie de la letra, al ser un sistema que controla quién puede ver, editar o administrar los contenidos dentro de los sitios, bibliotecas o carpetas compartidas, garantizando con ello que la información de la organización se mantenga segura, disponible para los usuarios autorizados y trazable.
 
     .row.justify-content-center.mb-5
       .col-lg-9(data-aos="fade-right")
         .bg-1.tarjeta.p-4.h-100
           p Maneja los permisos basados en niveles jerárquicos y roles de usuario, facilitando que el acceso se pueda dar según las funciones dentro de la organización. En las organizaciones, los administradores pueden asignar permisos a nivel de sitio, carpeta o archivo individual, brindando control detallado sobre la visibilidad y acciones permitidas; preservando así la confidencialidad de la información sensible y evitando que sean modificadas o eliminadas por error.
-          p.mb-0 Los niveles de permisos son usados para indicar cuales son las acciones que un usuario o un grupo podría realizar al interior de un sitio, una biblioteca, una carpeta, una lista, un elemento, entre otros recursos al interior de SharePoint (Marshall, 2025). 
+          p.mb-0 Los niveles de permisos son usados para indicar cuáles son las acciones que un usuario o un grupo podría realizar al interior de un sitio, una biblioteca, una carpeta, una lista, un elemento, entre otros recursos al interior de SharePoint (Marshall, 2025). 
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/11.svg', alt='')
 
@@ -199,7 +199,7 @@
               td Administrar jerarquía
               td Autoriza crear y editar sitios, páginas y subestructuras, además de manejar herencia de permisos. Recomendado para administradores de contenido o #[em webmasters].
 
-    p.mb-4 En SharePoint también se maneja la herencia de permisos, esto quiere decir que cuando hay elementos (carpetas, archivos, entre otros) que estén contenidos dentro de otros, por ejemplo, al interior de un sitio, ellos conservan los permisos del sitio o de el que lo contenga; por ejemplo, una carpeta hereda los permisos a las subcarpetas que están dentro de ella.
+    p.mb-4 En SharePoint también se maneja la herencia de permisos, esto quiere decir que cuando hay elementos (carpetas, archivos, entre otros) que están contenidos dentro de otros, por ejemplo, al interior de un sitio, ellos conservan los permisos del sitio o de el que lo contenga; por ejemplo, una carpeta hereda los permisos a las subcarpetas que están dentro de ella.
 
 
 </template>

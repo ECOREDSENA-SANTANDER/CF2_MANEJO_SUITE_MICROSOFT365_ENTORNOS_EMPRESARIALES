@@ -21,7 +21,7 @@
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t1/2.svg', alt='')
 
-    p.mb-4 A continuación, se presenta una tabla en donde por medio de ejemplos se muestran diferentes formas y herramientas digitales que permiten a las organizaciones aprovechar el trabajo colaborativo. Cada ejemplo ilustra la aplicación práctica de la colaboración en línea en distintos contextos empresariales, promoviendo la productividad y la innovación conjunta:
+    p.mb-4 A continuación, se presenta una tabla en donde, por medio de ejemplos, se muestran diferentes formas y herramientas digitales que permiten a las organizaciones aprovechar el trabajo colaborativo. Cada ejemplo ilustra la aplicación práctica de la colaboración en línea en distintos contextos empresariales, promoviendo la productividad y la innovación conjunta:
 
     .div(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
@@ -46,7 +46,7 @@
               td SharePoint
               td Almacenamiento y gestión de documentos institucionales en espacios compartidos.
               td Colaboración documental y control de versiones.
-              td Facilita el acceso a la información y garantiza trazabilidad de cambios.
+              td Facilita el acceso a la información y garantiza la trazabilidad de cambios.
             tr
               td Planner
               td Asignación y seguimiento de tareas en proyectos empresariales.
@@ -60,7 +60,7 @@
             tr
               td Google Docs
               td Elaboración conjunta de informes o propuestas empresariales.
-              td Edición simultánea y coautoria.
+              td Edición simultánea y coautoría.
               td Promueve la participación activa y evita duplicidad de documentos.
             tr
               td Trello
@@ -130,7 +130,7 @@
         img(src='@/assets/curso/temas/t1/3.png', alt='')
       .col-lg-9(data-aos="fade-left")
         .bg-color-adicional-1.mb-4.p-4
-          p.mb-0 En el plano de las organizaciones, la edición compartida de archivos en línea optimiza los procesos de comunicación y gestión documental, al facilitar y garantizar que se trabaje sobre archivos unificados, lo que reduce errores y tiempos de espera, así como la duplicidad; además estimula la transparencia, el control de cambios y la trazabilidad de los aportes que cada colaborador ha hecho en los diferentes trabajos.
+          p.mb-0 En el plano de las organizaciones, la edición compartida de archivos en línea optimiza los procesos de comunicación y gestión documental, al facilitar y garantizar que se trabaje sobre archivos unificados, lo que reduce errores y tiempos de espera, así como la duplicidad; además, estimula la transparencia, el control de cambios y la trazabilidad de los aportes que cada colaborador ha hecho en los diferentes trabajos.
         p En los entornos empresariales modernos, la edición compartida de archivos se ha convertido en una práctica clave para fortalecer la colaboración y la productividad. Mediante herramientas digitales, los equipos trabajan de forma simultánea, eficiente y organizada. La siguiente tabla muestra ejemplos de cómo las organizaciones aplican esta modalidad para optimizar sus procesos y resultados:
 
     .div(data-aos="fade-down")
@@ -163,14 +163,14 @@
             tr
               td Consolidación de datos financieros.
               td Excel en la nube (OneDrive o Google Sheets).
-              td Hola de cálculo.
+              td Hoja de cálculo.
               td Diferentes departamentos actualizan datos desde sus áreas.
               td Actualización instantánea y reducción de errores.
             tr
               td Revisión de políticas internas de la empresa.
               td SharePoint.
               td Documento compartido.
-              td Empleados de distintas sedes comentas y propones ajustes.
+              td Empleados de distintas sedes comentan y proponen ajustes.
               td Mayor participación y alineación organizacional.
             tr
               td Creación de propuestas comerciales para clientes.
@@ -189,8 +189,8 @@
       .col-lg-2.col-md-3.col-4.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t1/4.svg', alt='')
       .col-lg-10.col-md-9(data-aos="fade-left")
-        p El trabajo colaborativo en los entornos digitales representa una gran oportunidad para las empresas que buscan aumentar su productividad y adaptarse a la transformación digital; aunque su implementación no está exenta de retos y desafíos que podrían afectar la eficiencia y cohesión de los equipos.
-        p A continuación, se presentan algunos de los retos a los que se enfrentan las organizaciones en los trabajos colaborativo en entornos digitales:
+        p El trabajo colaborativo en los entornos digitales representa una gran oportunidad para las empresas que buscan aumentar su productividad y adaptarse a la transformación digital, aunque su implementación no está exenta de retos y desafíos que podrían afectar la eficiencia y cohesión de los equipos.
+        p A continuación, se presentan algunos de los retos a los que se enfrentan las organizaciones en los trabajos colaborativos en entornos digitales:
 
     .div(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
@@ -205,11 +205,11 @@
               th Descripción
           tbody
             tr
-              td Resistencia el cambio organizacional.
+              td Resistencia al cambio organizacional.
               td Algunos colaboradores o líderes muestran resistencia a modificar sus hábitos y adoptar nuevas herramientas digitales.
             tr
               td Dependencia tecnológica.
-              td Las fallas en la conexión, los sistemas o las plataformas pueden interrumpir al flujo de trabajo y afectar los resultados.
+              td Las fallas en la conexión, los sistemas o las plataformas pueden interrumpir el flujo de trabajo y afectar los resultados.
             tr
               td Gestión ineficaz del liderazgo virtual.
               td Dirigir equipos remotos requiere habilidades de comunicación, motivación y evaluación que no siempre están desarrolladas.
@@ -227,13 +227,13 @@
               td El exceso de correos, mensajes o documentos compartidos puede provocar distracciones y disminuir la productividad.
             tr
               td Falta de claridad en roles y responsabilidades.
-              td La ausencia de una estructura definida pueda ocasionar duplicación de tareas o falta de seguimiento en los proyectos.
+              td La ausencia de una estructura definida puede ocasionar duplicación de tareas o falta de seguimiento en los proyectos.
             tr
               td Seguridad y privacidad de la información.
               td El intercambio de datos en la nube implica riesgos de ciberataques o accesos no autorizados si no se aplican medidas de protección adecuadas.
             tr
               td Desconexión humana y alejamiento laboral.
-              td La falta de intersección presental puede debilitar la cohesión del equipo y disminuir el sentido de pertenencia.
+              td La falta de interacción presencial puede debilitar la cohesión del equipo y disminuir el sentido de pertenencia.
 
 
 

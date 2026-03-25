@@ -26,7 +26,7 @@
       .col-lg-1.col-md-2.col-3.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/3.svg', alt='')
       .col-lg-11.col-md-10(data-aos="fade-left")
-        p Esta herramienta ha tomado gran relevancia, sobretodo en el contexto colombiano, donde las empresas están optando progresivamente por la transformación digital, para no quedarse relegadas; es por ello, que Teams les está aportando estratégicamente en:
+        p Esta herramienta ha tomado gran relevancia, sobre todo en el contexto colombiano, donde las empresas están optando progresivamente por la transformación digital, para no quedarse relegadas; es por ello que Teams les está aportando estratégicamente en:
 
     .row.justify-content-center.mb-5
       .col-lg-6
@@ -80,7 +80,7 @@
               td Función que organiza el trabajo mediante herramientas como Planner y To Do, permitiendo asignar responsabilidades, establecer plazas y hacer seguimiento de avances.
             tr
               td Integración con el calendario
-              td Sincroniza automáticamente con Outlook, permitiendo programar; visualizar y unirse a reuniones desde Teams, con recordatorios integrados.
+              td Sincroniza automáticamente con Outlook, permitiendo programar, visualizar y unirse a reuniones desde Teams, con recordatorios integrados.
             tr
               td Recapitulaciones de reuniones
               td Genera automáticamente grabaciones, transcripciones, archivos compartidos y resúmenes de reuniones, facilitando el seguimiento y la rendición de cuentas.
@@ -95,13 +95,13 @@
               td Utiliza tecnologías #[em antimalware] y #[em antiphishing], y permite colaboración segura con invitados externos mediante permisos definidos.
             tr
               td Aplicación móvil (Teams Mobile App)
-              td Ofrece todos los funciones esenciales de mensajería, videollamedas y colaboración desde dispositivos móviles, garantizando consciividad en movimiento.
+              td Ofrece todas los funciones esenciales de mensajería, videollamadas y colaboración desde dispositivos móviles, garantizando conectividad en movimiento.
             tr
               td Sincronización entre dispositivos
               td Permite continuar las tareas sin interrupciones al cambiar entre equipos de escritorio, tabletas o móviles, manteniendo notificaciones y contexto.
             tr
               td Integración de plataformas
-              td Conecta Teams con servicios de Microsoft (Outlook, OneDrive, SharePoint) y aplicaciones externas; asegurando coherencia y continuidad en el entorno digital.
+              td Conecta Teams con servicios de Microsoft (Outlook, OneDrive, SharePoint) y aplicaciones externas, asegurando coherencia y continuidad en el entorno digital.
 
 
     Separador  
@@ -113,7 +113,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t2/4.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 En Microsoft Teams las reuniones en línea son sesiones virtuales que combinan audio, video, chat, pantalla compartida y colaboración en tiempo real, para conectar personas o equipos sin importar su ubicación geográfica. Esta herramienta en las sesiones virtuales permite realizar videollamadas, compartir pantalla, grabar sesiones e integrar otras aplicaciones, fomentando de esta forma una comunicación sincrónica, fluida y productiva. En el plano organizacional, especialmente en espacios laborales o educativos, donde más se utilizan, permite optimizar la coordinación de proyectos, compartir información, reducir costos logísticos y barreras físicas, fortalecer la toma de decisiones, aumentar los espacios de interacción, entre muchas otras; garantizando la continuidad del trabajo y la cohesión de los equipos en entornos híbridos y remotos, reduciendo tiempos y costos.
+        p.mb-0 En Microsoft Teams, las reuniones en línea son sesiones virtuales que combinan audio, video, chat, pantalla compartida y colaboración en tiempo real, para conectar personas o equipos sin importar su ubicación geográfica. Esta herramienta en las sesiones virtuales permite realizar videollamadas, compartir pantalla, grabar sesiones e integrar otras aplicaciones, fomentando de esta forma una comunicación sincrónica, fluida y productiva. En el plano organizacional, especialmente en espacios laborales o educativos, donde más se utilizan, permite optimizar la coordinación de proyectos, compartir información, reducir costos logísticos y barreras físicas, fortalecer la toma de decisiones, aumentar los espacios de interacción, entre muchas otras; garantizando la continuidad del trabajo y la cohesión de los equipos en entornos híbridos y remotos, reduciendo tiempos y costos.
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t2/subt.svg', alt='')
@@ -147,14 +147,14 @@
           tbody
             tr
               td #[b Planificación estratégica:] directivos y gerentes se conectan por Teams para definir objetivos, revisar resultados y coordinar tareas. Se utilizan canales dedicados por departamentos y se comparten documentos en SharePoint.
-              td La empresa Tecnozone realiza cada lunes una reunión por Teams para planificar las metas semanales con líderes de diferentes sedes.
-              td Reducción de costos logísticos, toma de decisiones más agiles, registro automático de acuerdos y grabación para seguimiento.
+              td La empresa Tecnozone lleva a cabo cada lunes una reunión por Teams para planificar las metas semanales con líderes de diferentes sedes. 
+              td Reducción de costos logísticos, toma de decisiones más ágiles, registro automático de acuerdos y grabación para seguimiento. 
             tr
-              td #[b Capacitación corporativa:] al área de talento humano programa exatores formativas mediante Teams. Se integran presentaciones en PowerPoint y cuestionarios con Microsoft Forms.
+              td #[b Capacitación corporativa:] el área de talento humano programa sesiones formativas mediante Teams. Se integran presentaciones en PowerPoint y cuestionarios con Microsoft Forms.
               td Una empresa del sector financiero dicta talleres virtuales de ciberseguridad usando Teams, donde los empleados participan y completan evaluaciones en línea.
               td Facilita la formación continua, permite interacción en tiempo real y registro automático de asistencia. 
             tr
-              td #[b Reuniones con clientes o socios:] los equipos comerciales usen Teams para videoconferencias con clientes, compartiendo propuestas o presentaciones desde OneDrive.
+              td #[b Reuniones con clientes o socios:] los equipos comerciales usan Teams para videoconferencias con clientes, compartiendo propuestas o presentaciones desde OneDrive.
               td Un asesor comercial realiza una demostración de producto a un cliente extranjero mediante Teams, usando la función de compartir pantalla.
               td Mejora la atención al cliente, elimina barreras geográficas y permite acuerdos inmediatos con respaldo grabado.
 
@@ -201,7 +201,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos="fade-right")
-        p.mb-4 En el caso de las videollamadas, estas amplían el alcance comunicativo al incorporar componentes visuales y auditivos, fortaleciendo con ello la conexión humana y la comprensión del mensaje; además de acortar distancias que afloran las emociones. El sistema permite la realización de videollamadas individuales o grupales, apoyándose en funciones como el uso de pantalla compartida, fondos personalizados, subtítulos en tiempo real, grabación de las reuniones, entre otras. Estas características mejoran la accesibilidad, la inclusión y la productividad.
+        p.mb-4 En el caso de las videollamadas, estas amplían el alcance comunicativo al incorporar componentes visuales y auditivos, fortaleciendo con ello la conexión humana y la comprensión del mensaje, además de acortar distancias que afloran las emociones. El sistema permite la realización de videollamadas individuales o grupales, apoyándose en funciones como el uso de pantalla compartida, fondos personalizados, subtítulos en tiempo real, grabación de las reuniones, entre otras. Estas características mejoran la accesibilidad, la inclusión y la productividad.
         .bg-color-adicional-1.p-4
           .row.justify-content-center
             .col-lg-2.col-md-2.col-3.mb-3.mb-lg-0
@@ -216,7 +216,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.3 Creación de equipos y canales 
     
-    p.mb-4 La creación de equipos y canales en Teams constituyen la base para el desarrollo del trabajo colaborativo digital, al permitir que se organice la comunicación, los recursos y las tareas dentro de un entorno estructurado.
+    p.mb-4 La creación de equipos y canales en Teams constituye la base para el desarrollo del trabajo colaborativo digital, al permitir que se organice la comunicación, los recursos y las tareas dentro de un entorno estructurado.
 
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-lg-10
@@ -250,7 +250,7 @@
               th Finalidad principal
           tbody
             tr
-              td Gestión de Proyectos TI.
+              td Gestión de proyectos TI.
               td 
                 ul.lista-ul.l-circle.mb-0
                   li
@@ -267,7 +267,7 @@
                     span.mb-0 Implementación
               td Coordinar todas las fases del proyecto tecnológico y mantener comunicación entre los desarrolladores.
             tr
-              td #[em Marketing] Digital.
+              td #[em Marketing] digital.
               td 
                 ul.lista-ul.l-circle.mb-0
                   li
@@ -314,7 +314,7 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.4 Integración con otras aplicaciones
 
-    p.mb-4 Teams tiene la ventaja que permite la integración con un sinnúmero de herramientas digitales o aplicaciones, lo que la potencializa, convirtiéndola en un centro de productividad. Entre las aplicaciones más conocidas que pueden integrarse, se pueden nombrar:
+    p.mb-4 Teams tiene la ventaja de que permite la integración con un sinnúmero de herramientas digitales o aplicaciones, lo que la potencializa, convirtiéndola en un centro de productividad. Entre las aplicaciones más conocidas que pueden integrarse, se pueden nombrar:
 
     .row.justify-content-around.mb-4(data-aos="fade")
       .col-lg-5.mb-4.mb-lg-0
@@ -378,7 +378,7 @@
         img(src='@/assets/curso/temas/t2/8.png', alt='')
       .col-lg-9(data-aos="fade-left")
         .bg-6.mb-4.p-4
-          p.mb-0 Cabe aclarar que, aunque se muestre este número limitado de aplicaciones, son muchas las que logran integrarse, por lo tanto, no es descabellado averiguar si las herramientas que usualmente utilizan en internet permiten la integración con Teams, para un mayor aprovechamiento y optimización del trabajo habitual.
+          p.mb-0 Cabe aclarar que, aunque se muestre este número limitado de aplicaciones, son muchas las que logran integrarse; por lo tanto, no es descabellado averiguar si las herramientas que usualmente utilizan en internet permiten la integración con Teams, para un mayor aprovechamiento y optimización del trabajo habitual. 
         p A continuación, se presentan algunos ejemplos de aplicaciones que pueden integrarse con Microsoft Teams para optimizar la comunicación, la colaboración y la gestión de tareas dentro de los equipos de trabajo; y cómo podrían usarse:
 
     .div.mb-5(data-aos="fade-down")

@@ -256,7 +256,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Clickup. (2024). 15 funciones básicas de Microsoft Teams para mejorar la productividad de su equipo en 2025. Clickup.com.',
+        'ClickUp. (2024). 15 funciones básicas de Microsoft Teams para mejorar la productividad de su equipo en 2025. Clickup.com.',
     },
     {
       referencia:
@@ -280,7 +280,7 @@ export default {
     },
     {
       referencia:
-        'Nunsys. (2018). Microsoft Sharepoint y las ventajas de una herramienta de trabajo integral.',
+        'Nunsys. (2018). Microsoft SharePoint y las ventajas de una herramienta de trabajo integral.',
     },
   ],
   creditos: [
