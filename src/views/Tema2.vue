@@ -95,7 +95,7 @@
               td Utiliza tecnologías #[em antimalware] y #[em antiphishing], y permite colaboración segura con invitados externos mediante permisos definidos.
             tr
               td Aplicación móvil (Teams Mobile App)
-              td Ofrece todas los funciones esenciales de mensajería, videollamadas y colaboración desde dispositivos móviles, garantizando conectividad en movimiento.
+              td Ofrece todas las funciones esenciales de mensajería, videollamadas y colaboración desde dispositivos móviles, garantizando conectividad en movimiento.
             tr
               td Sincronización entre dispositivos
               td Permite continuar las tareas sin interrupciones al cambiar entre equipos de escritorio, tabletas o móviles, manteniendo notificaciones y contexto.
@@ -314,7 +314,7 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.4 Integración con otras aplicaciones
 
-    p.mb-4 Teams tiene la ventaja de que permite la integración con un sinnúmero de herramientas digitales o aplicaciones, lo que la potencializa, convirtiéndola en un centro de productividad. Entre las aplicaciones más conocidas que pueden integrarse, se pueden nombrar:
+    p.mb-4 Teams tiene la ventaja de que permite la integración con un sinnúmero de herramientas digitales o aplicaciones, lo que la potencializa, convirtiéndola en un centro de productividad. Entre las aplicaciones más conocidas que pueden integrarse; se pueden nombrar:
 
     .row.justify-content-around.mb-4(data-aos="fade")
       .col-lg-5.mb-4.mb-lg-0
